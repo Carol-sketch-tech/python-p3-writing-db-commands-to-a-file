@@ -1,0 +1,20 @@
+Writing Database commands to a File.
+ SQLite to store data and rtrieve it later on 
+ Use SQLite tobuild relational database on your computer.
+
+ WRITINT SQL in a text editor.
+ to write SQL in our text editor and execute taht SQL agaisnt a specific datbse, well create files in out text editor that have 
+ teh .sql extension.
+ these files will contain valid SQL code.
+ then we can execute these files agaisnt our database in the command line. 
+ 
+
+ CREATING A DATABSE AND TABLE.
+open the sqlite3 in the terminal with the following command.
+    sqlite3 pets_databse.db
+     then ..quit
+
+OPERATING ON OUT DATABSE FROM THE TEXT EDITOR.
+To carry out any subsquent actions on the datbse - adding a column to the cats 
+table droppint that table, creating a new table 
+we can create new .sql files in the text editor and execute them in the same way as above. 
